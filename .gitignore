@@ -1,0 +1,7 @@
+raw/*
+processed/*
+lightning_logs/*
+venv/*
+
+*.egg-info/*
+**/__pycache__/*
